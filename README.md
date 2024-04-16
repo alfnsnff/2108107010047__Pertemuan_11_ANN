@@ -45,10 +45,7 @@ Support Vector Machine:
 
 
 
-## View Notebooks:
-### Vew from github
-Simply click or choose one of listed notebooks above to view the notebook
-### Locally
+## How to view Notebooks:
 Simply [download](https://github.com/alfnsnff/Tugas2ML/archive/refs/heads/master.zip) or clone the repository that already include the datasets and run the notebooks locally
 
 [IMPORTANT] Some Requirements is Needed. Use Virtual Environment by Create Ur Own Virtual Environments Following These Steps
