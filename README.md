@@ -23,20 +23,20 @@ Notebooks:
 - [ANN Classification](ANN_Classification.ipynb) 
 - [ANN Regression](ANN_Regression.ipynb)
 
-## Compare
 ### Classification
-#### ANN
+Artificial Network:
+
     -  9/9 ━━━━━━━━━━━━━━━━━━━━ 0s 2ms/step - accuracy: 0.9306 - loss: 0.4001 
     -  Accuracy: 0.9090909090909091
-#### SVM
+Support Vector Machine:
     -  Akurasi: 0.8518518518518519
 
 ### Regression
-#### ANN
+Artificial Network:
     - Root Mean Square Error (RMSE): 1.7911436158306753
     - Mean Absolute Error (MAE): 1.087879800796509
     - R-squared (R^2): 0.8980536332952823
-#### SVM
+Support Vector Machine:
     - Mean Absolute Error: 2.435113377092408
     - Mean Squared Error: 10.506363752657839
     - Root Mean Squared Error: 3.241352148819662
