@@ -1,10 +1,11 @@
-# Machine Learning Assigment 2
-## Classification and Regression with Support Vector Machine
+# Machine Learning Assigment 3
+## Classification and Regression with ANN
 
 M. Alfan Septian Nufi - 2108107010047
 
 Datasets: 
 -   Classification : https://www.kaggle.com/datasets/sujithmandala/obesity-classification-dataset
+-   Regression : https://www.kaggle.com/datasets/tawfikelmetwally/advertising-dataset
 
 About datasets:
 -   Classfication dataset contains information about the obesity classification of individuals. The data was collected from a variety of sources, including medical records, surveys, and self-reported data. The dataset includes the following columns:
@@ -15,9 +16,12 @@ About datasets:
     -  Weight: The weight of the individual in kilograms
     -  BMI: The body mass index of the individual, calculated as weight divided by height squared
     -  Label: The obesity classification of the individual, which can be one of the following: [Normal, Weight, Overweight, Obese, Underweight]
+-   Regression dataset expresses sales according to the type of advertisement and the size of the cost .
+The dataset contains 200 rows of 3 features [ TV , Radio , Newspaper] and target variable [Sales]
 
 Notebooks: 
 - [ANN Classification](ANN_Classification.ipynb) 
+- [ANN Regression](ANN_Regression.ipynb)
 
 ## View Notebooks:
 ### Vew from github
