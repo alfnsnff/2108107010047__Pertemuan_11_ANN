@@ -25,8 +25,6 @@ Notebooks:
 
 ### Classification
 Artificial Network:
-
-    -  9/9 ━━━━━━━━━━━━━━━━━━━━ 0s 2ms/step - accuracy: 0.9306 - loss: 0.4001 
     -  Accuracy: 0.9090909090909091
 
 Support Vector Machine:
@@ -37,7 +35,7 @@ Artificial Network:
     - Root Mean Square Error (RMSE): 1.7911436158306753
     - Mean Absolute Error (MAE): 1.087879800796509
     - R-squared (R^2): 0.8980536332952823
-    
+
 Support Vector Machine:
     - Mean Absolute Error: 2.435113377092408
     - Mean Squared Error: 10.506363752657839
