@@ -43,6 +43,19 @@ Support Vector Machine:
     - Mean Squared Error: 10.506363752657839
     - Root Mean Squared Error: 3.241352148819662
 
+Based on the provided comparison between Artificial Neural Network (ANN) and Support Vector Machine (SVM) models for both  classification and regression tasks, here are the conclusions:
+
+    - Classification:
+        - ANN achieved a higher accuracy of 0.909 compared to SVM with an accuracy of 0.852. This indicates that ANN performed better in classifying the data into different categories.
+    - Regression:
+        - ANN outperformed SVM in terms of regression performance metrics:
+        - ANN had lower Root Mean Square Error (RMSE) of 1.791 compared to SVM's Root Mean Squared Error of 3.241. Lower RMSE indicates that the ANN model's predictions were closer to the actual values compared to SVM.
+        - ANN also had lower Mean Absolute Error (MAE) of 1.088 compared to SVM's Mean Absolute Error of 2.435. Lower MAE indicates that the ANN model's predictions had smaller average errors compared to SVM.
+        - ANN achieved a higher R-squared (R^2) value of 0.898 compared to SVM's R-squared value, which indicates that the ANN model explained more of the variance in the target variable compared to SVM.
+        - Overall Conclusion:
+        - For both classification and regression tasks, the Artificial Neural Network (ANN) model outperformed the Support Vector Machine (SVM) model.
+        - ANN showed higher accuracy in classification and better performance metrics (lower RMSE, lower MAE, and higher R^2) in regression compared to SVM.
+        Therefore, ANN appears to be the better choice for both classification and regression tasks based on the provided comparison.
 
 
 ## How to view Notebooks:
