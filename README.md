@@ -23,6 +23,8 @@ Notebooks:
 - [ANN Classification](ANN_Classification.ipynb) 
 - [ANN Regression](ANN_Regression.ipynb)
 
+## Comparison
+
 ### Classification
 Artificial Network:
     -  Accuracy: 0.9090909090909091
