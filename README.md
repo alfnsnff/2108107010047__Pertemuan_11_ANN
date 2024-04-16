@@ -25,7 +25,7 @@ Simply click or choose one of listed notebooks above to view the notebook
 ### Locally
 Simply [download](https://github.com/alfnsnff/Tugas2ML/archive/refs/heads/master.zip) or clone the repository that already include the datasets and run the notebooks locally
 
-[IMPORTANT] Some Requirements is Needed. Use venv provided in the repository!! OR Create Ur Own Virtual Environments Following These Steps
+[IMPORTANT] Some Requirements is Needed. Use Virtual Environment by Create Ur Own Virtual Environments Following These Steps
 
 #### Windows 
 Create Virtual Environment
