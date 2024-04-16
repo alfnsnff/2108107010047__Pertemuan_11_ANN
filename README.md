@@ -25,14 +25,14 @@ Notebooks:
 
 ## Comparison
 
-### Classification
+## Classification
 Artificial Network:
     -  Accuracy: 0.9090909090909091
 
 Support Vector Machine:
     -  Akurasi: 0.8518518518518519
 
-### Regression
+## Regression
 Artificial Network:
     - Root Mean Square Error (RMSE): 1.7911436158306753
     - Mean Absolute Error (MAE): 1.087879800796509
