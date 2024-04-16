@@ -23,7 +23,7 @@ Notebooks:
 - [ANN Classification](ANN_Classification.ipynb) 
 - [ANN Regression](ANN_Regression.ipynb)
 
-## Comparison
+# Comparison
 
 ## Classification
 Artificial Network:
