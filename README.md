@@ -27,6 +27,7 @@ Simply [download](https://github.com/alfnsnff/Tugas2ML/archive/refs/heads/master
 
 [IMPORTANT] Some Requirements is Needed. Use Virtual Environment by Create Ur Own Virtual Environments Following These Steps
  
+Note: This following code is used for windows
 Create Virtual Environment
 ```
 python -m venv venv
